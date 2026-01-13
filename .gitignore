@@ -1,0 +1,68 @@
+# ============================================
+# .gitignore untuk Sistem Inventaris Gudang
+# ============================================
+# File ini mencegah file sensitif/tidak perlu di-upload ke GitHub
+
+# ============================================
+# FILE KONFIGURASI SENSITIF
+# ============================================
+# JANGAN upload file config yang berisi password database!
+# config.php
+
+# Jika ingin share config, buat config.example.php
+# Tapi untuk saat ini, kita tetap include config.php karena ini project demo
+
+# ============================================
+# FILE TEMPORARY & TESTING
+# ============================================
+test_password.php
+test.php
+debug.php
+*.tmp
+*.bak
+
+# ============================================
+# PHP & COMPOSER
+# ============================================
+vendor/
+composer.lock
+*.log
+
+# ============================================
+# DATABASE BACKUP
+# ============================================
+*.sql.backup
+database/backup/
+
+# ============================================
+# IDE & EDITOR
+# ============================================
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+Thumbs.db
+
+# ============================================
+# SYSTEM FILES
+# ============================================
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# ============================================
+# NODE MODULES (jika pakai npm)
+# ============================================
+node_modules/
+package-lock.json
+
+# ============================================
+# SESSION & CACHE
+# ============================================
+sessions/
+cache/
+temp/
