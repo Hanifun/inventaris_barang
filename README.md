@@ -248,8 +248,8 @@ Project ini menggunakan lisensi **MIT License**. Silakan gunakan, modifikasi, da
 ## 📞 Support
 
 Jika ada pertanyaan atau issue, silakan:
-- Buka [GitHub Issues](https://github.com/USERNAME/sistem-inventaris-gudang/issues)
-- Email: your.email@example.com
+- Buka [GitHub Issues](https://github.com/Hanifun/inventaris_barang/issues)
+- Email: dakhilullah0@gmail.com
 
 ---
 
