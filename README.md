@@ -1,4 +1,4 @@
-# 📦 Sistem Inventaris Gudang
+# 📦 Sistem Inventaris Gudang - antigravity client
 
 > Aplikasi web sederhana untuk mengelola inventaris barang gudang dengan PHP Native, MySQL, dan Bootstrap
 
